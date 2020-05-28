@@ -11,7 +11,7 @@
     {
         "defaults":
         {
-            "backgroundImage": "D:\\image.jpg",
+            "backgroundImage": "https://raw.githubusercontent.com/KiWindows/wintermcfg/master/background.jpg?token=AGJW32OV3SKA2VNXZN5Z6NS63GBQG",
             "backgroundImageOpacity": 0.6,
             "colorScheme": "Andromeda",
             "cursorShape": "vintage"

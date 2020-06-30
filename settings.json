@@ -33,6 +33,18 @@
                 "hidden": false
             },
             {
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6102}",
+                "backgroundImage": "https://images2.alphacoders.com/848/84892.jpg",
+                "name": "SSH Marisa",
+                "commandline": "cmd.exe /c ssh user@host"
+            },
+            {
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6103}",
+                "backgroundImage": "https://images2.alphacoders.com/900/900750.png",
+                "name": "SSH Meiling",
+                "commandline": "cmd.exe /c ssh user@host"
+            },
+            {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": false,
                 "name": "Azure Cloud Shell",

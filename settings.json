@@ -33,22 +33,19 @@
                 "hidden": false
             },
             {
-                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6102}",
+                "guid": "{}",
                 "backgroundImage": "https://images2.alphacoders.com/848/84892.jpg",
+                "icon": "Drive:/Location/to/your/icon.ico",
                 "name": "SSH Marisa",
-                "commandline": "cmd.exe /c ssh user@host"
+                "commandline": "ssh user@host -i Drive:/location/of/your/privkey"
             },
             {
-                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6103}",
+                "guid": "{}",
                 "backgroundImage": "https://images2.alphacoders.com/900/900750.png",
                 "name": "SSH Meiling",
-                "commandline": "cmd.exe /c ssh user@host"
-            },
-            {
-                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-                "hidden": false,
-                "name": "Azure Cloud Shell",
-                "source": "Windows.Terminal.Azure"
+                "icon": "Drive:/Location/to/your/icon.ico",
+                "commandline": "ssh user@host -i Drive:/location/of/your/privkey"
+                
             }
         ]
     },

@@ -47,6 +47,8 @@
                 "commandline": "ssh user@host -i Drive:/location/of/your/privkey"
                 
             }
+            // I'd like to give credits to Imiveooo, which noticed me about the auto login SSH and the icons
+            // https://twitter.com/ImIveooo ; https://github.com/ImIveooo ; https://imiveooo.fr/
         ]
     },
 
